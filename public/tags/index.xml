@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My New Hugo Site</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>/posts/hello/</link>
+      <pubDate>Wed, 01 Dec 2021 22:50:26 +0000</pubDate>
+      
+      <guid>/posts/hello/</guid>
+      <description>&lt;h1 id=&#34;daniel-pourhadi&#34;&gt;Daniel Pourhadi&lt;/h1&gt;
+&lt;p&gt;Chicago, IL | 630-337-4454 | &lt;a href=&#34;mailto:dan@pourhadi.com&#34;&gt;dan@pourhadi.com&lt;/a&gt; | &lt;a href=&#34;https://www.linkedin.com/in/danpourhadi/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;principallead-software-engineer&#34;&gt;&lt;strong&gt;Principal/Lead Software Engineer&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Accomplished Software Engineer with over 10 years of technical experience specializing in native and non-native mobile development. Demonstrated proficiency in developing &lt;strong&gt;cross-platform mobile applications&lt;/strong&gt;, &lt;strong&gt;full-stack solutions&lt;/strong&gt;, and &lt;strong&gt;back-end systems&lt;/strong&gt;. Experienced in collaborating with stakeholders on architecture and design for robust and scalable software solutions.&lt;/p&gt;
+&lt;h2 id=&#34;core-competencies&#34;&gt;&lt;strong&gt;Core Competencies&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Native Mobile Development (iOS/Android)&lt;/li&gt;
+&lt;li&gt;Cross-Platform Mobile Development&lt;/li&gt;
+&lt;li&gt;Full-Stack Development&lt;/li&gt;
+&lt;li&gt;Backend Development&lt;/li&gt;
+&lt;li&gt;Architecture/Design&lt;/li&gt;
+&lt;li&gt;Project Management&lt;/li&gt;
+&lt;li&gt;Team Leadership&lt;/li&gt;
+&lt;li&gt;Software Development Life Cycle (SDLC)&lt;/li&gt;
+&lt;li&gt;Cloud&lt;/li&gt;
+&lt;li&gt;Machine Learning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;technical-skills&#34;&gt;&lt;strong&gt;Technical Skills&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Languages: Swift, Kotlin, Objective-C, Java, Python, TypeScript, C++, SQL&lt;/li&gt;
+&lt;li&gt;Frameworks: React Native, SwiftUI, UIKit, CoreAnimation, Jetpack Compose, Micronaut, GraphQL, TensorFlow, Keras&lt;/li&gt;
+&lt;li&gt;Tools: Pandas, NumPy, Cython, &lt;a href=&#34;http://ray.io/&#34;&gt;Ray.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Databases: PostgreSQL, MongoDB&lt;/li&gt;
+&lt;li&gt;Cloud Services: Google Cloud Services&lt;/li&gt;
+&lt;li&gt;Other: Microservices, ARKit, visionOS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;professional-experience&#34;&gt;&lt;strong&gt;Professional Experience&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;principal-software-engineer--k-health--remote&#34;&gt;&lt;strong&gt;Principal Software Engineer | K Health – Remote&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;2021 – Present&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;K Health is an AI-driven primary care platform, supporting telehealth applications for partners like Cedars-Sinai and Mayo Clinic.&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Co-architected next-generation platform, building new app and back-end from the ground up using Kotlin Multiplatform, SwiftUI, Jetpack Compose, Micronaut, and GraphQL.&lt;/li&gt;
+&lt;li&gt;Developed a server-side layout rendering engine for native mobile UI using Kotlin Multiplatform, facilitating seamless coordination between engineers and design/product teams.&lt;/li&gt;
+&lt;li&gt;Designed a new chat protocol for automated (AI) conversations between a patient and K’s clinical intake, enabling type-safe end-to-communication across platforms including Micronaut (Kotlin) and Node.js (TypeScript)&lt;/li&gt;
+&lt;li&gt;Led engineering team, translating business requirements into engineering tasks, guiding ceremonies, conducting code reviews, and mentoring junior engineers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;principal-ai-engineer--elevance-formerly-anthem--remote&#34;&gt;&lt;strong&gt;Principal AI Engineer | Elevance (formerly Anthem) – Remote&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;2020 – 2021&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Elevance is the largest healthcare payer in the Blue Cross Blue Shield network with 40 million members.&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Key contributor to Sydney Health, Elevance’s next-generation membership application.&lt;/li&gt;
+&lt;li&gt;Implemented K Health’s AI symptom picker and virtual doctor visits into the Sydney Health application.&lt;/li&gt;
+&lt;li&gt;Collaborated with K Health to convert the direct-to-consumer platform into an SDK.&lt;/li&gt;
+&lt;li&gt;Coordinated with K Health and Anthem teams on requirements and oversaw implementation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;senior-software-engineer--rocket-wagon--chicago-il&#34;&gt;&lt;strong&gt;Senior Software Engineer | Rocket Wagon – Chicago, IL&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;2017 – 2020&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Digital consultancy specializing in full stack software development projects from initial conception to deployment.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed an application and Machine Learning models for a major wine distributor, guiding wineries in taking clear, consistent photos of wine bottles for use on sales and marketing platforms.&lt;/li&gt;
+&lt;li&gt;Collaborated with Duracell engineers to create an algorithm estimating battery life using data from a BLE device attached to the battery and a cross-platform C++ library.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;additional-experience&#34;&gt;&lt;strong&gt;Additional Experience&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Senior iOS Engineer | AKTA &lt;em&gt;2014 – 2015&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Mobile Developer | Independent Contractor/Consultant &lt;em&gt;2013 – 2017&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Legislative Aide | Committee on Finance, Chicago City Council &lt;em&gt;2009 – 2012&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;projects&#34;&gt;&lt;strong&gt;Projects&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;model-app-for-apple-vision-pro&#34;&gt;&lt;strong&gt;Model App for Apple Vision Pro&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;2024 – Present&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Allows users to design immersive scenes from 3D models and set immersive 360-degree environments using visionOS, SwiftUI, RealityKit, ARKit, and Blender.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;nasa-360-for-apple-vision-pro&#34;&gt;&lt;strong&gt;NASA 360 for Apple Vision Pro&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;2024 – Present&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Application for watching NASA’s catalog of 360-degree videos in a fully immersive player built with visionOS, SwiftUI, RealityKit, and ARKit.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;ml-trading-platform&#34;&gt;&lt;strong&gt;ML Trading Platform&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;2018 – Present&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Experimented with ML-driven algorithmic trading of index futures, using Python, Cython, TensorFlow, Keras, Pandas, NumPy, and &lt;a href=&#34;http://ray.io/&#34;&gt;Ray.io&lt;/a&gt; to parse, process, and format data for LSTM, GRU, and transformer models.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;oncue-the-music-player-for-ios&#34;&gt;&lt;strong&gt;OnCue, The Music Player for iOS&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;2010 – 2013&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Developed a popular music player for iPhone and iPad, introducing features such as dynamic queues, crossfading, and live visual waveforms.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    
+  </channel>
+</rss>
